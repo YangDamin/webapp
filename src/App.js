@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>hello Damin-update2</code> and save to reload.
+          Edit <code>hello Damin-update4</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Damin Page
+          Damin Page!!
         </a>
       </header>
     </div>
